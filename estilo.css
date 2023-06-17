@@ -1,0 +1,30 @@
+body {
+    background: rgb(160, 125, 60);
+    font: normal 15pt Arial;
+}
+header {
+    color: whitesmoke;
+    text-align: center;
+}
+section {
+    background: rgb(197, 193, 187);
+    border-radius: 8px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.575);
+    
+}
+footer {
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+}
+div {
+    text-align: center;
+}
+input {
+    font-size: 16px;
+    border-radius: 4px;
+}
